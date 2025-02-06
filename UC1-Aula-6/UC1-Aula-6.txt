@@ -1,0 +1,34 @@
+1 -  Realistico:
+
+Valores: 
+1.Competição
+2.Trabalho duro
+3.Ação  
+4.Prazer
+
+Caracteristicas:
+1.Energetico
+2.Alegre
+3.Ativo
+4.Corajoso
+
+Interesses: 
+1. Eletronica,
+2.Tecnologia
+3.Computadores 
+
+2- Investigativo 
+
+Valores: 
+1.Conhecimento
+2.Cultura
+3.Excelencia 
+
+Caracteristicas: 
+1.Reflexivo
+2.Pensativo
+3.Logico 
+
+Interesses:
+1.Pesquisar
+2.Aprender
